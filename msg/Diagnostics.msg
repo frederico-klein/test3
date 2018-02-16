@@ -1,7 +1,0 @@
-float64 equilibrium
-float64 cocontraction
-float64 ballistic
-float64 encoder
-float64 alpha_flexor
-float64 alpha_extensor
-float64 forward_error
