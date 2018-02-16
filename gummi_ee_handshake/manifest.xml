@@ -1,6 +1,0 @@
-<package>
-  <description brief="gummi_ee_handshake">gummi_ee_handshake</description>
-  <depend package="gazebo" />
-  <author>Frederico Belmonte Klein</author>
-  <license>BSD</license>
-</package>
